@@ -1,0 +1,3 @@
+@echo off
+rem This script will set up the MedinolApp environment.
+echo Setting up the environment...
